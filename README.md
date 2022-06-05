@@ -1,3 +1,4 @@
 # MAKING A SIMPLE AJAX REQUEST
 
-## ['MEOW FACTS'](https://meowfacts.herokuapp.com/)
+## [END POINT CONSUMED -MEOW FACTS](https://meowfacts.herokuapp.com/)
+### CLICK ABOVE TO VIEW ENDPOINT USED
